@@ -1,14 +1,12 @@
 <hr>
 
-:warning: **The maintenance and support of this project has been moved to a [new repository](https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul).**
-
 <hr><br>
 
 ![Platform](https://img.shields.io/static/v1?label=Platform&message=Windows%20%7C%20Mac%20%7C%20Linux&color=informational)
 ![Language](https://img.shields.io/static/v1?label=Language&message=every%20language&color=limegreen)
 ![SupportedGames](https://img.shields.io/static/v1?label=Supported%20games&message=EET%20%7C%20BGT%20%7C%20BG2%3AEE%20%7C%20TOB%20%7C%20BG1%3AEE%20%7C%20TuTu_TOSC&color=blue)
 
-<div align="center"><h1>Baldur's Gate Graphical Overhaul</h1>
+<div align="center"><h1>Baldur's Gate Graphical Overhaul Android</h1>
 
 <h3>A Spellhold Studios mod for Baldur's Gate II:ToB, Baldur's Gate Trilogy, BG1:EE, BG2:EE, EET and TuTu<h3>
 
