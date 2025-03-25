@@ -24,55 +24,20 @@
 
 &nbsp;
 
-<div align="center">
-<a href="#intro">Overview</a> &#8226; <a href="#compat">Compatibility</a> &#8226; <a href="#installation">Installation</a> &#8226; <a href="#credits">Credits and Acknowledgements</a>&#8226; <a href="#modding">Modding</a> &#8226; <a href="#versions">Version History</a></br>
-</div>
-
-<hr>
-
 
 ## <a name="intro" id="intro"></a>Overview
 
-This is not the main component, but only a package with the graphics in Android format ETC2. The Baldurs-Gate-Graphical-Overhaul mod must still be downloaded for installation.
-
-This mod is probably the biggest visual overhaul of the game since it was released. It reinstates the extended night areas that are missing from **all** main areas. Now, when you open doors at night they show light from inside the building. Buildings actually have windows that are lit up. 
-Many night maps have their own lighting map and interiors are equipped with candles, torches and lights.<br>
-As luck would have it, two met by chance in the Beamdog and Gibberlings 3 forums, respectively. The thanks here goes to Jastey. 
-One was trying to deal with all the problems of the two versions not working properly for both engine variants. The other was just tweaking and beautifying the graphics further. 
-Fortunately, when they finally got in contact, there was an incredible synergy effect. They understood each other right away and joined forces.
-Not only were all the old graphics from BG1 reworked, but they also decided to add all the areas from BG2, ToB, SoD, BG1EE and BG2EE without the original night map.
-This means that there are now 83 new night maps. In total 636 maps will be improved.
-These are the night maps and also day maps. Light maps are added, graphical bugs are fixed, animated water areas are added, over 7000 animated candles, torches and lights are added.
-Especially with the animated candles, torches and lights, old maps can be improved at any time.
-
-<div align="right"><a href="#top">Back to top</a></div>
-
-
-<hr>
-
-
-## <a name="compat" id="compat"></a>Compatibility
-
-This mod is compatible with both Infinity Engine variants.
-Therefore, almost all Baldur's Gate variants are compatible with this version. Primarily with EET and BGT of course, but also with ToB (SoA is not enough) and BG2EE and also with BG1EE with or without SoD. TuTu_TotSC should also be compatible with BGGO, but has not been tested yet.<br>
-This mod is compatible with all mods that do not overwrite are, wed, tis, pvrz and bmp files. are and wed files should be patched then. <br>
-Additional built-in mod compatibility: <br>
- -Lure of Sirines Call<br>
- -Baldurans Seatower<br>
- -Gavin NPC<br>
- -TDDz<br>
-
-<div align="right"><a href="#top">Back to top</a></div>
-
-
-<hr>
+**This is not the main component, but only a package with the graphics in Android format ETC2.** \
+**The Baldurs-Gate-Graphical-Overhaul mod must still be downloaded for installation.**\
+**https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul/releases/tag/v3.3**\
 
 
 ## <a name="installation" id="installation"></a>Installation
 
 #### Notes
 
-*The BGGO-Android folder must be located in the root directory of your Baldur's Gate installation next to the BGGO directory. If you start the **`setup-bggo.exe`** you will now see a second installation variant for Android.
+**The BGGO-Android folder must be located in the root directory of your Baldur's Gate installation next to the BGGO directory.**  
+If you start the **`setup-bggo.exe`** you will now see a second installation variant for Android.
 
 ## 
 
@@ -108,30 +73,6 @@ To install, run **`WeInstall setup-bggo`** in your game folder. Then run **`wine
 
 ## 
 
-#### Note for Complete Un-installation
-
-In addition to the methods above for removing individual components, you can completely un-install the mod using **`setup-bggo --uninstall`** at the command line to remove all components without wading through prompts.</br>
-<div align="right"><a href="#top">Back to top</a></div>
-
-
-<hr>
-
-
-## <a name="credits" id="credits"></a>Credits and Acknowledgements
-
-**Original author:** <a href="http://www.shsforums.net/user/3378-cbisson/">Yovaneth</a> (incredible graphic artist)   
-**Coders:** <a href="http://www.shsforums.net/user/3958-weigo/">Weigo</a> (completely revised version)  
-
-
-#### Special Acknowledgements to:
-
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
-- <a href="https://www.gibberlings3.net/">Gibberlings3</a> team for hosting the mod (<a href="https://www.gibberlings3.net/forums">Forums</a>).
-- The creators of the Baldur's Gate series: <a href="http://www.bioware.com/">Bioware</a> and <a href="http://www.obsidian.net/">Black Isle Studios</a>.
-- For the great support and help: **Galactygon**, **Jastey**, **Salk**, **Sam**, **TotoR**, **ALIENQuake**, **skellytz** ... without the constant feedback, everything would not have been so possible<br> and many more, which I can't look up now, because the SHSForum is down. Should it work again, I will add all the others here, or they should contact me :)
-- Everyone else from the <a href="http://gibberlings3.net/forums/">The Gibberlings Three</a>, <a href="http://www.shsforums.net/">Spellhold Studios</a> forums, and the other Infinity Engine gaming and modding communities who offered their help and support.
-
-## 
 
 #### Programs/Tools used in creation:
 
@@ -165,18 +106,4 @@ In addition to the methods above for removing individual components, you can com
 ###### The modding community for the Infinity Engine has been going strong for more than 10 years now, and is the culmination of thousands of unpaid modding hours by fellow fans of the game. Modders produce their best work and players get the best, well-supported mods when we all work together.
 ###### There are two big ways to upset this harmony. One is to claim someone else's work as your own. The second is to host and redistribute a mod without permission from the author(s).
 ###### Be kind to your fellow players and modders. Don't do either.</br></br>
-<div align="right"><a href="#top">Back to top</a></div>
-
-
-<hr>
-
-## <a name="versions" id="versions"></a>Version History
-
-#### Version 3.0 (Upcoming version)
-
-By Yovaneth, Weigo
-
--completely revised version
-
-- Initial release (Yovaneth).
 <div align="right"><a href="#top">Back to top</a></div>
