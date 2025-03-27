@@ -29,7 +29,7 @@
 
 **This is not the main component, but only a package with the graphics in Android format ETC2.** \
 **The Baldurs-Gate-Graphical-Overhaul mod must still be downloaded for installation.**\
-**https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul/releases/tag/v3.3**\
+https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul/releases/tag/v3.3 
 
 
 ## <a name="installation" id="installation"></a>Installation
