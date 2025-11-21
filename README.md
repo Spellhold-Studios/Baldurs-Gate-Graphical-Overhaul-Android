@@ -29,23 +29,22 @@
 
 **This is not the main component, but only a package with the graphics in Android format ETC2.** \
 **The Baldurs-Gate-Graphical-Overhaul mod must still be downloaded for installation.**\
-https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul/releases/tag/v3.3 
+https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul/releases/tag/v3.6
 
 
 ## <a name="installation" id="installation"></a>Installation
 
 #### Notes
 
-**The BGGO-Android folder must be located in the root directory of your Baldur's Gate installation next to the BGGO directory.**  
+**The BGGO-Android folder must be located in the root directory (the folder which contains the "CHITIN.KEY" file) of your Baldur's Gate installation next to the BGGO directory.**  
 If you start the **`setup-bggo.exe`** you will now see a second installation variant for Android.
 
 ## 
 
 #### Windows
 
-Baldur's Gate Graphical Overhaul for Windows is distributed as an extractable compressed archive and includes a WeiDU installer.
-
-Extract the contents of the mod archive into the folder of the game you wish to modify (*the folder which contains the "CHITIN.KEY" file*), using <a href="http://www.7-zip.org/download.html">7zip</a>, <a href="http://www.rarlab.com/download.htm">WinRAR</a>, or another file compression utility that handles .zip files. On successful extraction, there should be a :file_folder: bggo folder and a setup-bggo.exe file in your game folder. To install, simply double-click **`setup-bggo.exe`** and follow the instructions on screen.
+To install, copy the files to the folder which contains the "CHITIN.KEY" file.
+Simply double-click **`setup-bggo.exe`** and follow the instructions on screen.
 
 Run **`setup-bggo.exe`** in your game folder to reinstall, un-install or otherwise change the components settings.
 
